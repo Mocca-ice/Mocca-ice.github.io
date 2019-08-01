@@ -1,2 +1,2 @@
-# lHCWritecode.github.io
+#Richardome.github.io
 个人博客
